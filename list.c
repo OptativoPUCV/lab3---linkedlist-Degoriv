@@ -102,6 +102,7 @@ void * popBack(List * list) {
 }
 
 void * popCurrent(List * list) {
+		list->current->prev = list->current->next;
     return NULL;
 }
 
