@@ -108,3 +108,9 @@ Fri 29 Mar 2024 11:14:09 PM UTC:
  1 file changed, 2 insertions(+), 2 deletions(-)
  tests:  0|0
 f8580fd
+Fri 29 Mar 2024 11:26:39 PM UTC: 
+ list.c | 14 ++++++++++++--
+ 1 file changed, 12 insertions(+), 2 deletions(-)
+ tests:  12|0
+total_score: 70/70
+8d0e8a2
